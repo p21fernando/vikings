@@ -40,13 +40,13 @@
 
 ## Desafio21
 
-_"O desafio nos move"_ e, pensando nisso, preparamos um para você. Siga todas as instruções.
+_"O desafio nos move"_ e, pensando nisso, preparamos um para você. Todas as instruções para o desafio estão no link abaixo.
 
 https://gist.github.com/p21sistemas/4983c96538285339d1dfeea808d5f5a7
 
 # ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 13/10/2019
 
-# Concluiu o desafio!? Estamos ansiosos por te conhece!
+# Concluiu o desafio!? Estamos ansiosos para te conhece!
  * Envie o código ou o link de acesso ao repositório para os seguintes e-mails
  * wilson@p21sistemas.com.br ou fernando@p21sistemas.com.br
  * Neste mesmo e-mail anexe seu currículo e faça uma breve descrição sobre você e suas experências (diferencial enviar um vídeo).
